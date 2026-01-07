@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>イベント情報</title>
+    <link>https://www.evolinq.link</link>
+    <description>IT・テクノロジー系イベント情報</description>
+    <language>ja</language>
+    <lastBuildDate>Wed, 07 Jan 2026 09:00:00 +0900</lastBuildDate>
+
+    <item>
+      <title>生成AI活用セミナー</title>
+      <link>https://www.evolinq.link/events/1</link>
+      <description>生成AIの業務活用事例を紹介するセミナー</description>
+      <pubDate>Mon, 12 Jan 2026 18:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://www.evolinq.link/events/1</guid>
+    </item>
+
+    <item>
+      <title>クラウドインフラ勉強会</title>
+      <link>https://www.evolinq.link/events/2</link>
+      <description>クラウド基盤設計の基礎を学ぶ勉強会</description>
+      <pubDate>Tue, 13 Jan 2026 19:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://www.evolinq.link/events/2</guid>
+    </item>
+
+    <item>
+      <title>スタートアップ向けIT戦略講座</title>
+      <link>https://www.evolinq.link/events/3</link>
+      <description>スタートアップに必要なIT戦略を解説</description>
+      <pubDate>Wed, 14 Jan 2026 17:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://www.evolinq.link/events/3</guid>
+    </item>
+
+    <item>
+      <title>Webセキュリティ入門</title>
+      <link>https://www.evolinq.link/events/4</link>
+      <description>Webサービスの基本的なセキュリティ対策を学ぶ</description>
+      <pubDate>Thu, 15 Jan 2026 18:30:00 +0900</pubDate>
+      <guid isPermaLink="true">https://www.evolinq.link/events/4</guid>
+    </item>
+
+    <item>
+      <title>UXデザイン実践ワークショップ</title>
+      <link>https://www.evolinq.link/events/5</link>
+      <description>UX設計の考え方を体験型で学ぶ</description>
+      <pubDate>Fri, 16 Jan 2026 16:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://www.evolinq.link/events/5</guid>
+    </item>
+
+    <item>
+      <title>データ分析ハンズオン</title>
+      <link>https://www.evolinq.link/events/6</link>
+      <description>データ分析の基本を実践形式で学習</description>
+      <pubDate>Sat, 17 Jan 2026 14:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://www.evolinq.link/events/6</guid>
+    </item>
+
+    <item>
+      <title>ノーコード開発体験会</title>
+      <link>https://www.evolinq.link/events/7</link>
+      <description>ノーコードツールによる開発体験イベント</description>
+      <pubDate>Sun, 18 Jan 2026 13:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://www.evolinq.link/events/7</guid>
+    </item>
+
+    <item>
+      <title>エンジニア向けキャリア相談会</title>
+      <link>https://www.evolinq.link/events/8</link>
+      <description>ITエンジニアのキャリア形成について相談可能</description>
+      <pubDate>Mon, 19 Jan 2026 19:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://www.evolinq.link/events/8</guid>
+    </item>
+
+    <item>
+      <title>プロダクトマネジメント基礎講座</title>
+      <link>https://www.evolinq.link/events/9</link>
+      <description>プロダクト開発の基本プロセスを解説</description>
+      <pubDate>Tue, 20 Jan 2026 18:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://www.evolinq.link/events/9</guid>
+    </item>
+
+    <item>
+      <title>IT業界トレンド共有会</title>
+      <link>https://www.evolinq.link/events/10</link>
+      <description>最新のIT業界動向を共有する情報交換会</description>
+      <pubDate>Wed, 21 Jan 2026 18:30:00 +0900</pubDate>
+      <guid isPermaLink="true">https://www.evolinq.link/events/10</guid>
+    </item>
+
+  </channel>
+</rss>
+
