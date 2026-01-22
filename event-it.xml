@@ -10,7 +10,7 @@
     <item>
       <title>【安全情報】防寒と乾燥対策</title>
       <link>https://example.com/factory-signage-demo/items/001</link>
-      <description><![CDATA[工場外気温：3℃｜路面凍結に注意してください。こまめな水分補給も忘れずに！]]></description>
+      <description>工場外気温：3℃｜路面凍結に注意してください。こまめな水分補給も忘れずに！</description>
       <pubDate>Thu, 22 Jan 2026 09:00:00 +0900</pubDate>
       <dc:creator>工場インフォ（デモ）</dc:creator>
       <category>安全</category>
@@ -20,7 +20,7 @@
     <item>
       <title>【品質・衛生】手洗い・消毒の徹底</title>
       <link>https://example.com/factory-signage-demo/items/002</link>
-      <description><![CDATA[冬季衛生強化期間 実施中（～1/31）｜入室前の手洗いを再度徹底しましょう。]]></description>
+      <description>冬季衛生強化期間 実施中（～1/31）｜入室前の手洗いを再度徹底しましょう。</description>
       <pubDate>Thu, 22 Jan 2026 09:01:00 +0900</pubDate>
       <dc:creator>工場インフォ（デモ）</dc:creator>
       <category>品質・衛生</category>
@@ -30,7 +30,7 @@
     <item>
       <title>【業務連絡】Aラインメンテナンス予告</title>
       <link>https://example.com/factory-signage-demo/items/003</link>
-      <description><![CDATA[本日 14:00～14:30｜Aラインは定期点検のため一時停止します。]]></description>
+      <description>本日 14:00～14:30｜Aラインは定期点検のため一時停止します。</description>
       <pubDate>Thu, 22 Jan 2026 09:02:00 +0900</pubDate>
       <dc:creator>工場インフォ（デモ）</dc:creator>
       <category>業務連絡</category>
@@ -40,7 +40,7 @@
     <item>
       <title>【福利厚生】本日の食堂おすすめ</title>
       <link>https://example.com/factory-signage-demo/items/004</link>
-      <description><![CDATA[本日のおすすめ：鶏の照り焼き定食（600円）｜温かい豚汁が付いています。]]></description>
+      <description>本日のおすすめ：鶏の照り焼き定食（600円）｜温かい豚汁が付いています。</description>
       <pubDate>Thu, 22 Jan 2026 09:03:00 +0900</pubDate>
       <dc:creator>工場インフォ（デモ）</dc:creator>
       <category>福利厚生</category>
@@ -50,7 +50,7 @@
     <item>
       <title>【改善提案】ヒヤリハット報告のお願い</title>
       <link>https://example.com/factory-signage-demo/items/005</link>
-      <description><![CDATA[「ヒヤリ」とした瞬間は宝の山。小さな気づきを専用ポストまでお願いします。]]></description>
+      <description>「ヒヤリ」とした瞬間は宝の山。小さな気づきを専用ポストまでお願いします。</description>
       <pubDate>Thu, 22 Jan 2026 09:04:00 +0900</pubDate>
       <dc:creator>工場インフォ（デモ）</dc:creator>
       <category>社内コミュニケーション</category>
@@ -60,7 +60,7 @@
     <item>
       <title>【人事】有給休暇の早期申請</title>
       <link>https://example.com/factory-signage-demo/items/006</link>
-      <description><![CDATA[2月分の有給申請は1月末までにシステムから入力をお願いします。]]></description>
+      <description>2月分の有給申請は1月末までにシステムから入力をお願いします。</description>
       <pubDate>Thu, 22 Jan 2026 09:05:00 +0900</pubDate>
       <dc:creator>工場インフォ（デモ）</dc:creator>
       <category>人事・労務</category>
@@ -70,7 +70,7 @@
     <item>
       <title>【健康】感染症予防のお知らせ</title>
       <link>https://example.com/factory-signage-demo/items/007</link>
-      <description><![CDATA[インフルエンザが流行しています。体調不良時は無理せず所属長へ報告を。]]></description>
+      <description>インフルエンザが流行しています。体調不良時は無理せず所属長へ報告を。</description>
       <pubDate>Thu, 22 Jan 2026 09:06:00 +0900</pubDate>
       <dc:creator>工場インフォ（デモ）</dc:creator>
       <category>健康</category>
@@ -80,7 +80,7 @@
     <item>
       <title>【実績】昨日の製造数報告</title>
       <link>https://example.com/factory-signage-demo/items/008</link>
-      <description><![CDATA[昨日の製造実績：12,500個（目標達成率 104%）！素晴らしい成果です。]]></description>
+      <description>昨日の製造実績：12,500個（目標達成率 104%）！素晴らしい成果です。</description>
       <pubDate>Thu, 22 Jan 2026 09:07:00 +0900</pubDate>
       <dc:creator>工場インフォ（デモ）</dc:creator>
       <category>トリビア</category>
@@ -90,7 +90,7 @@
     <item>
       <title>【予告】新春レクリエーション</title>
       <link>https://example.com/factory-signage-demo/items/009</link>
-      <description><![CDATA[2月開催予定の社内イベントについて、詳細は来週の掲示板を確認してください。]]></description>
+      <description>2月開催予定の社内イベントについて、詳細は来週の掲示板を確認してください。</description>
       <pubDate>Thu, 22 Jan 2026 09:08:00 +0900</pubDate>
       <dc:creator>工場インフォ（デモ）</dc:creator>
       <category>イベント</category>
@@ -100,7 +100,7 @@
     <item>
       <title>【標語】安全第一</title>
       <link>https://example.com/factory-signage-demo/items/010</link>
-      <description><![CDATA[今日も一日、声掛け合って安全作業。ご安全に！]]></description>
+      <description>今日も一日、声掛け合って安全作業。ご安全に！</description>
       <pubDate>Thu, 22 Jan 2026 09:09:00 +0900</pubDate>
       <dc:creator>工場インフォ（デモ）</dc:creator>
       <category>メッセージ</category>
