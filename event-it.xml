@@ -1,131 +1,110 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://example.com/">
   <channel>
-    <title>イベント情報</title>
-    <link>https://www.evolinq.link</link>
-    <description>IT・テクノロジー系イベント情報</description>
+    <title>工場内インフォメーション（デモ）</title>
+    <link>https://example.com/factory-signage-demo</link>
+    <description>食品製造工場向けサイネージ用RSSフィード（ダミー）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Jan 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 09:15:00 +0900</lastBuildDate>
 
     <item>
-      <title>生成AI活用セミナー</title>
-      <link>https://www.evolinq.link/events/1</link>
-      <description>
-日時：2026年1月12日 18:00〜19:30
-会場：オンライン
-内容：生成AIの業務活用事例を紹介
-      </description>
-      <pubDate>Mon, 12 Jan 2026 18:00:00 +0900</pubDate>
-      <guid>event-1</guid>
+      <title>【安全情報】防寒と乾燥対策</title>
+      <link>https://example.com/factory-signage-demo/items/001</link>
+      <description><![CDATA[工場外気温：3℃｜路面凍結に注意してください。こまめな水分補給も忘れずに！]]></description>
+      <pubDate>Thu, 22 Jan 2026 09:00:00 +0900</pubDate>
+      <dc:creator>工場インフォ（デモ）</dc:creator>
+      <category>安全</category>
+      <guid isPermaLink="false">factory-demo-001</guid>
     </item>
 
     <item>
-      <title>クラウドインフラ勉強会</title>
-      <link>https://www.evolinq.link/events/2</link>
-      <description>
-日時：2026年1月13日 19:00〜20:30
-会場：東京・渋谷
-内容：クラウド基盤設計の基礎を学ぶ
-      </description>
-      <pubDate>Tue, 13 Jan 2026 19:00:00 +0900</pubDate>
-      <guid>event-2</guid>
+      <title>【品質・衛生】手洗い・消毒の徹底</title>
+      <link>https://example.com/factory-signage-demo/items/002</link>
+      <description><![CDATA[冬季衛生強化期間 実施中（～1/31）｜入室前の手洗いを再度徹底しましょう。]]></description>
+      <pubDate>Thu, 22 Jan 2026 09:01:00 +0900</pubDate>
+      <dc:creator>工場インフォ（デモ）</dc:creator>
+      <category>品質・衛生</category>
+      <guid isPermaLink="false">factory-demo-002</guid>
     </item>
 
     <item>
-      <title>スタートアップ向けIT戦略講座</title>
-      <link>https://www.evolinq.link/events/3</link>
-      <description>
-日時：2026年1月14日 17:00〜18:30
-会場：オンライン
-内容：スタートアップに必要なIT戦略を解説
-      </description>
-      <pubDate>Wed, 14 Jan 2026 17:00:00 +0900</pubDate>
-      <guid>event-3</guid>
+      <title>【業務連絡】Aラインメンテナンス予告</title>
+      <link>https://example.com/factory-signage-demo/items/003</link>
+      <description><![CDATA[本日 14:00～14:30｜Aラインは定期点検のため一時停止します。]]></description>
+      <pubDate>Thu, 22 Jan 2026 09:02:00 +0900</pubDate>
+      <dc:creator>工場インフォ（デモ）</dc:creator>
+      <category>業務連絡</category>
+      <guid isPermaLink="false">factory-demo-003</guid>
     </item>
 
     <item>
-      <title>Webセキュリティ入門</title>
-      <link>https://www.evolinq.link/events/4</link>
-      <description>
-日時：2026年1月15日 18:30〜20:00
-会場：大阪・梅田
-内容：Webサービスの基本的なセキュリティ対策
-      </description>
-      <pubDate>Thu, 15 Jan 2026 18:30:00 +0900</pubDate>
-      <guid>event-4</guid>
+      <title>【福利厚生】本日の食堂おすすめ</title>
+      <link>https://example.com/factory-signage-demo/items/004</link>
+      <description><![CDATA[本日のおすすめ：鶏の照り焼き定食（600円）｜温かい豚汁が付いています。]]></description>
+      <pubDate>Thu, 22 Jan 2026 09:03:00 +0900</pubDate>
+      <dc:creator>工場インフォ（デモ）</dc:creator>
+      <category>福利厚生</category>
+      <guid isPermaLink="false">factory-demo-004</guid>
     </item>
 
     <item>
-      <title>UXデザイン実践ワークショップ</title>
-      <link>https://www.evolinq.link/events/5</link>
-      <description>
-日時：2026年1月16日 16:00〜18:00
-会場：東京・六本木
-内容：UX設計を体験型で学ぶ
-      </description>
-      <pubDate>Fri, 16 Jan 2026 16:00:00 +0900</pubDate>
-      <guid>event-5</guid>
+      <title>【改善提案】ヒヤリハット報告のお願い</title>
+      <link>https://example.com/factory-signage-demo/items/005</link>
+      <description><![CDATA[「ヒヤリ」とした瞬間は宝の山。小さな気づきを専用ポストまでお願いします。]]></description>
+      <pubDate>Thu, 22 Jan 2026 09:04:00 +0900</pubDate>
+      <dc:creator>工場インフォ（デモ）</dc:creator>
+      <category>社内コミュニケーション</category>
+      <guid isPermaLink="false">factory-demo-005</guid>
     </item>
 
     <item>
-      <title>データ分析ハンズオン</title>
-      <link>https://www.evolinq.link/events/6</link>
-      <description>
-日時：2026年1月17日 14:00〜17:00
-会場：オンライン
-内容：データ分析の基本を実践形式で学習
-      </description>
-      <pubDate>Sat, 17 Jan 2026 14:00:00 +0900</pubDate>
-      <guid>event-6</guid>
+      <title>【人事】有給休暇の早期申請</title>
+      <link>https://example.com/factory-signage-demo/items/006</link>
+      <description><![CDATA[2月分の有給申請は1月末までにシステムから入力をお願いします。]]></description>
+      <pubDate>Thu, 22 Jan 2026 09:05:00 +0900</pubDate>
+      <dc:creator>工場インフォ（デモ）</dc:creator>
+      <category>人事・労務</category>
+      <guid isPermaLink="false">factory-demo-006</guid>
     </item>
 
     <item>
-      <title>ノーコード開発体験会</title>
-      <link>https://www.evolinq.link/events/7</link>
-      <description>
-日時：2026年1月18日 13:00〜15:00
-会場：名古屋
-内容：ノーコードツールによる開発体験
-      </description>
-      <pubDate>Sun, 18 Jan 2026 13:00:00 +0900</pubDate>
-      <guid>event-7</guid>
+      <title>【健康】感染症予防のお知らせ</title>
+      <link>https://example.com/factory-signage-demo/items/007</link>
+      <description><![CDATA[インフルエンザが流行しています。体調不良時は無理せず所属長へ報告を。]]></description>
+      <pubDate>Thu, 22 Jan 2026 09:06:00 +0900</pubDate>
+      <dc:creator>工場インフォ（デモ）</dc:creator>
+      <category>健康</category>
+      <guid isPermaLink="false">factory-demo-007</guid>
     </item>
 
     <item>
-      <title>エンジニア向けキャリア相談会</title>
-      <link>https://www.evolinq.link/events/8</link>
-      <description>
-日時：2026年1月19日 19:00〜20:30
-会場：オンライン
-内容：ITエンジニアのキャリア形成相談
-      </description>
-      <pubDate>Mon, 19 Jan 2026 19:00:00 +0900</pubDate>
-      <guid>event-8</guid>
+      <title>【実績】昨日の製造数報告</title>
+      <link>https://example.com/factory-signage-demo/items/008</link>
+      <description><![CDATA[昨日の製造実績：12,500個（目標達成率 104%）！素晴らしい成果です。]]></description>
+      <pubDate>Thu, 22 Jan 2026 09:07:00 +0900</pubDate>
+      <dc:creator>工場インフォ（デモ）</dc:creator>
+      <category>トリビア</category>
+      <guid isPermaLink="false">factory-demo-008</guid>
     </item>
 
     <item>
-      <title>プロダクトマネジメント基礎講座</title>
-      <link>https://www.evolinq.link/events/9</link>
-      <description>
-日時：2026年1月20日 18:00〜20:00
-会場：東京・品川
-内容：プロダクト開発の基本プロセスを解説
-      </description>
-      <pubDate>Tue, 20 Jan 2026 18:00:00 +0900</pubDate>
-      <guid>event-9</guid>
+      <title>【予告】新春レクリエーション</title>
+      <link>https://example.com/factory-signage-demo/items/009</link>
+      <description><![CDATA[2月開催予定の社内イベントについて、詳細は来週の掲示板を確認してください。]]></description>
+      <pubDate>Thu, 22 Jan 2026 09:08:00 +0900</pubDate>
+      <dc:creator>工場インフォ（デモ）</dc:creator>
+      <category>イベント</category>
+      <guid isPermaLink="false">factory-demo-009</guid>
     </item>
 
     <item>
-      <title>IT業界トレンド共有会</title>
-      <link>https://www.evolinq.link/events/10</link>
-      <description>
-日時：2026年1月21日 18:30〜20:00
-会場：オンライン
-内容：最新のIT業界動向を共有
-      </description>
-      <pubDate>Wed, 21 Jan 2026 18:30:00 +0900</pubDate>
-      <guid>event-10</guid>
+      <title>【標語】安全第一</title>
+      <link>https://example.com/factory-signage-demo/items/010</link>
+      <description><![CDATA[今日も一日、声掛け合って安全作業。ご安全に！]]></description>
+      <pubDate>Thu, 22 Jan 2026 09:09:00 +0900</pubDate>
+      <dc:creator>工場インフォ（デモ）</dc:creator>
+      <category>メッセージ</category>
+      <guid isPermaLink="false">factory-demo-010</guid>
     </item>
-
   </channel>
 </rss>
